@@ -1,0 +1,20 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 900px;
+    height: 100%;
+    background-color: rgb(192, 192, 192);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.logo{
+    color: rgb(0, 75, 236);
+    font-size: 17px;
+}
