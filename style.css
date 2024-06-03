@@ -14,10 +14,22 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-.logo{
-    color: rgb(0, 75, 236);
-    font-size: 17px;
+nav{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+nav a{
+    padding: 10px;
+    text-decoration: none;
+    background-color: ;
 }
 .menu{
     display: flex;
+    
 }
+.conteudo1 a{
+    background-color: black;
+    color: white;
+    
+}
+
